@@ -1,10 +1,10 @@
 const PAINS = [
   {
     num: '01',
-    heading: 'Mỗi lần làm nội dung, bạn lại nhắc AI mình là ai từ đầu.',
+    heading: 'Mỗi lần mở chat mới, bạn lại nhắc AI mình là ai từ đầu.',
     body: [
       'Một ngày vài chat AI mới.',
-      'Mỗi chat lại phải nhắc: bạn là ai, bạn bán gì, bạn nói với ai, giọng như thế nào, điều gì không nên nói.',
+      'Mỗi chat lại phải nhắc: bạn là ai, bạn bán gì, bạn nói với ai, giọng thế nào, điều gì tránh.',
       'Mất vài phút mỗi lần. Một tháng, việc nhỏ đó cộng lại thành rất nhiều thời gian.',
       'Có tháng Thanh mở hơn năm mươi phiên chat khác nhau — chỉ để làm nội dung.',
       'Bạn cũng từng như vậy chứ?',
@@ -12,24 +12,34 @@ const PAINS = [
   },
   {
     num: '02',
+    heading: 'Sáng nào cũng tự hỏi: mai đăng cái gì?',
+    body: [
+      'Bạn có Facebook. Có YouTube. Có TikTok. Có Email.',
+      'Mỗi sáng lại bắt đầu bằng câu hỏi cũ: bài này viết cho ai?',
+      'Khách mới chưa biết bạn — hay khách cũ đã mua một lần?',
+      'Bài nào để khách biết tới bạn? Bài nào để khách hiểu giá trị? Bài nào để khách quyết định mua?',
+      'Bạn không thiếu chủ đề. Bạn thiếu một cái khung để chọn chủ đề.',
+    ],
+  },
+  {
+    num: '03',
     heading: 'Bài viết ra nghe đúng — nhưng không giống bạn.',
     body: [
       'Bạn gõ câu lệnh dài. Dán bối cảnh. Dán ví dụ. Dán yêu cầu cụ thể.',
       'AI trả về một bài.',
       'Nghe đúng. Nghe sạch. Nghe có vẻ chuyên nghiệp.',
       'Nhưng đọc lại vẫn thấy thiếu chất.',
-      'Không phải tại bạn lười. Không phải tại AI dở. Tại AI chưa có đủ ngữ cảnh để hiểu bạn là ai.',
+      'Không phải tại bạn lười. Không phải tại AI dở. Tại bạn chưa có khung câu lệnh khớp với DNA và Ma trận của bạn.',
     ],
   },
   {
-    num: '03',
-    heading: 'Nhiều kênh. Nhiều giọng khác nhau.',
+    num: '04',
+    heading: '30 lần một ngày, bạn nhảy giữa quá nhiều màn hình.',
     body: [
-      'Bạn có Facebook. Có YouTube. Có TikTok. Có Email.',
-      'Mỗi kênh lại dùng một phiên chat AI khác nhau.',
-      'Người đọc Facebook thấy một giọng. Người xem YouTube thấy một giọng khác. Email lại giống như người khác viết.',
-      'Bạn không đổi chiến lược.',
-      'Nhưng AI đang hiểu bạn theo nhiều cách khác nhau.',
+      'Tab Zalo trả khách. Tab email trả đối tác. Tab ChatGPT viết bài. Tab Gemini kiểm chéo. Tab Facebook duyệt quảng cáo.',
+      'Mỗi lần đổi màn hình, đầu cần 20 phút để lấy lại tập trung sâu.',
+      '30 lần một ngày = 10 tiếng năng lượng tinh thần bốc hơi.',
+      'Bạn không mệt vì làm nhiều. Bạn mệt vì cái đầu phải khởi động lại 30 lần.',
     ],
   },
 ];
@@ -83,7 +93,7 @@ export default function Pain() {
               Vấn đề không phải AI yếu.<br />
               Vấn đề là{' '}
               <span className="italic text-gold-600">
-                AI chưa có hệ thống để hiểu bạn.
+                bạn đang dùng AI rời rạc — chưa thành một hệ thống.
               </span>
             </p>
           </div>

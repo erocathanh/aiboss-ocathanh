@@ -12,7 +12,7 @@ const TESTIMONIALS = [
   {
     name: 'anh Khánh Toàn',
     role: 'Giám đốc công ty bao bì giấy B2B (HCM)',
-    quote: 'Cộng đồng có Sport hỗ trợ học viên đến tận khuya. Thầy dạy không ngừng nghỉ.',
+    quote: 'Cộng đồng có các bạn Coach/Support hỗ trợ học viên đến tận khuya. Thầy dạy không ngừng nghỉ.',
     body: [
       'Trước khi học, anh Khánh Toàn rất sợ quảng cáo — nghĩ chạy quảng cáo là mất tiền.',
       'Sau khoá học, anh ấy đổi tư duy: quảng cáo không phải chi phí, mà là đầu tư có thể đo được.',
