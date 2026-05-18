@@ -31,8 +31,8 @@ export const metadata = {
     images: [
       {
         url: '/og-image.jpg',
-        width: 1536,
-        height: 1024,
+        width: 1200,
+        height: 628,
         alt: 'AIBOSS AUTO CONTENT — Workshop miễn phí 3 buổi · 19-21/5/2026 · 20h-23h giờ Việt Nam',
       },
     ],
