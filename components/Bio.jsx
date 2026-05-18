@@ -42,10 +42,6 @@ export default function Bio() {
             <ul className="space-y-3 mb-8 border-l-2 border-gold-400 pl-5">
               <li className="text-sm sm:text-base text-navy-800">
                 <span className="text-gold-600 mr-2">→</span>
-                Kinh doanh quốc tế: từ Việt Nam sang Cộng Hoà Séc, rồi sang Anh.
-              </li>
-              <li className="text-sm sm:text-base text-navy-800">
-                <span className="text-gold-600 mr-2">→</span>
                 Người tổ chức và điều phối nhiều trợ lý AI: Claude, Cursor, Gemini, GPT.
               </li>
               <li className="text-sm sm:text-base text-navy-800">
