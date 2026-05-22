@@ -5,7 +5,7 @@ const STEPS = [
   'Bạn tải File DNA cá nhân khởi động và điền bản nhanh 15 phút.',
   'Trước workshop 1-2 ngày: Thanh đăng video PT-1 (thiết lập Project Claude) + PT-2 (DNA 6 lớp toàn cảnh) trong nhóm kín. Bạn xem trước để vào Buổi 1 là thực hành luôn.',
   'Email nhắc lịch + đường dẫn buổi học gửi tối hôm trước.',
-  'Tối Thứ Ba 19/5, 20h: Buổi 1 trực tiếp qua mạng.',
+  'Tối Thứ Ba 2/6, 20h: Buổi 1 trực tiếp qua mạng.',
   'Thứ Tư và Thứ Năm: Buổi 2 + Buổi 3, mỗi buổi có một kết quả thực hành rõ ràng.',
 ];
 
