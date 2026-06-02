@@ -21,9 +21,9 @@ export default function ClosingCTA() {
           </div>
           <h2 className="display-text text-4xl sm:text-5xl lg:text-6xl
                          font-bold leading-[1.05] mb-8">
-            AI không cần<br />
-            bạn diễn.<br />
-            <span className="italic text-gold-300">AI cần bạn rõ.</span>
+            Học để hiểu mình.<br />
+            Hệ thống hoá mình.<br />
+            <span className="italic text-gold-300">Nhân bản mình bằng AI.</span>
           </h2>
 
           <p className="text-base sm:text-lg text-cream/80 mb-6 max-w-xl leading-relaxed">
