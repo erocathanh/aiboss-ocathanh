@@ -1,7 +1,7 @@
 const SESSIONS = [
   {
     day: 'BUỔI 1',
-    date: 'Thứ Ba 2/6 · 20h-23h',
+    date: 'Thứ Ba 16/6 · 20h-23h',
     title: 'Thiết lập AI Content OS — Hệ điều hành nội dung cá nhân',
     experiences: [
       'Hiểu AI Content OS là hệ điều hành cá nhân — không phải thêm một công cụ',
@@ -18,7 +18,7 @@ const SESSIONS = [
   },
   {
     day: 'BUỔI 2',
-    date: 'Thứ Tư 3/6 · 20h-23h',
+    date: 'Thứ Tư 17/6 · 20h-23h',
     title: 'Phương pháp lớn hơn công cụ — Từ một ý tưởng đến nội dung đúng giai đoạn',
     experiences: [
       'Phân biệt 2 lớp: tri thức (DNA + Ma trận) và thực thi (câu lệnh + phần mềm)',
@@ -35,7 +35,7 @@ const SESSIONS = [
   },
   {
     day: 'BUỔI 3',
-    date: 'Thứ Năm 4/6 · 20h-23h',
+    date: 'Thứ Năm 18/6 · 20h-23h',
     title: 'Bản đồ 5 tầng AI Content OS — Vị trí của bạn và bước đi tiếp theo',
     experiences: [
       'Bản đồ 5 tầng đầy đủ: DNA → Kho tri thức + Ma trận → 9 ô câu lệnh → Phần mềm AIBOSS → Hệ điều hành riêng',
