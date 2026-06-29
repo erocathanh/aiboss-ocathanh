@@ -5,7 +5,7 @@ import { useState } from 'react';
 const FAQS = [
   {
     q: 'Workshop có miễn phí không?',
-    a: 'Có. AIBOSS AUTO CONTENT là workshop miễn phí trong 3 buổi, diễn ra từ ngày 16 đến 18/6/2026, 20h-23h giờ Việt Nam.',
+    a: 'Có. AIBOSS AUTO CONTENT là workshop miễn phí trong 3 buổi, diễn ra từ ngày 14 đến 16/7/2026, 20h-23h giờ Việt Nam.',
   },
   {
     q: 'Tôi dùng công cụ AI nào cũng được chứ?',

@@ -1,6 +1,6 @@
 # AIBOSS AUTO CONTENT — Landing A/B Variant B (ocathanh)
 
-Variant B của landing workshop **AIBOSS AUTO CONTENT** (16-18/6/2026).
+Variant B của landing workshop **AIBOSS AUTO CONTENT** (14-16/7/2026).
 
 - **Domain:** `aiboss.ocathanh.com`
 - **Hero hook:** Chi phí năng lượng chuyển đổi giữa Zalo / email / ChatGPT / Gemini / Facebook (concept S1 từ NetHerc — context switching cost 20 phút × 30 lần/ngày)
