@@ -51,10 +51,13 @@ export default function RegisterForm() {
           Thanh đã giữ chỗ AIBOSS AUTO CONTENT cho bạn.
         </h3>
         <p className="text-navy-700 leading-relaxed">
-          Email xác nhận vừa được gửi tới hộp thư của bạn. Email có tiêu đề:
+          Thanh vừa gửi tới hộp thư của bạn email có tiêu đề:
         </p>
         <p className="mt-2 text-navy-900 font-medium italic">
-          &ldquo;{form.full_name} ơi, đã giữ chỗ AIBOSS AUTO CONTENT&rdquo;
+          &ldquo;{form.full_name.trim().split(' ')[0]} ơi, Thanh đã nhận đăng ký của bạn&rdquo;
+        </p>
+        <p className="mt-3 text-navy-700 leading-relaxed">
+          Bạn mở email đó, bấm nút xác nhận — vài phút sau tài liệu và link nhóm kín sẽ tới tiếp.
         </p>
         <p className="mt-3 text-sm text-navy-500 leading-relaxed">
           Nếu chưa thấy email, kiểm tra thêm mục Quảng cáo (Promotions) / Thư rác (Spam) / Junk.
