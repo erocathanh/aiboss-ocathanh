@@ -21,7 +21,7 @@ export function middleware(request) {
   if (!target.searchParams.has('utm_source')) {
     target.searchParams.set('utm_source', 'aiboss-ocathanh');
     target.searchParams.set('utm_medium', 'referral');
-    target.searchParams.set('utm_campaign', 'bimatai-k3');
+    target.searchParams.set('utm_campaign', 'bimatai-k4');
   }
 
   return NextResponse.redirect(target, 307);
